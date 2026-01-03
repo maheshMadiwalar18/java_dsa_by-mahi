@@ -10,3 +10,8 @@ public class DSAJourney {
         System.out.println("Solving SumOfTwoNumbers...");
     }
 
+    // Day 3: EvenOrOdd
+    public void solveEvenOrOdd() {
+        System.out.println("Solving EvenOrOdd...");
+    }
+
