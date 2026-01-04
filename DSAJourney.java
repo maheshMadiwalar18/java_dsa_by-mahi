@@ -15,3 +15,8 @@ public class DSAJourney {
         System.out.println("Solving EvenOrOdd...");
     }
 
+    // Day 4: Factorial
+    public void solveFactorial() {
+        System.out.println("Solving Factorial...");
+    }
+
