@@ -20,3 +20,8 @@ public class DSAJourney {
         System.out.println("Solving Factorial...");
     }
 
+    // Day 5: Fibonacci
+    public void solveFibonacci() {
+        System.out.println("Solving Fibonacci...");
+    }
+
