@@ -25,3 +25,8 @@ public class DSAJourney {
         System.out.println("Solving Fibonacci...");
     }
 
+    // Day 6: ReverseArray
+    public void solveReverseArray() {
+        System.out.println("Solving ReverseArray...");
+    }
+
