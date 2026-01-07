@@ -30,3 +30,8 @@ public class DSAJourney {
         System.out.println("Solving ReverseArray...");
     }
 
+    // Day 7: FindMaxInArray
+    public void solveFindMaxInArray() {
+        System.out.println("Solving FindMaxInArray...");
+    }
+
