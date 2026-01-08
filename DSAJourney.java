@@ -35,3 +35,8 @@ public class DSAJourney {
         System.out.println("Solving FindMaxInArray...");
     }
 
+    // Day 8: LinearSearch
+    public void solveLinearSearch() {
+        System.out.println("Solving LinearSearch...");
+    }
+
