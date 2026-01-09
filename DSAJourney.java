@@ -40,3 +40,8 @@ public class DSAJourney {
         System.out.println("Solving LinearSearch...");
     }
 
+    // Day 9: BinarySearch
+    public void solveBinarySearch() {
+        System.out.println("Solving BinarySearch...");
+    }
+
