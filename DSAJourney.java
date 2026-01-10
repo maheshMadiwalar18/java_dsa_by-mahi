@@ -45,3 +45,8 @@ public class DSAJourney {
         System.out.println("Solving BinarySearch...");
     }
 
+    // Day 10: BubbleSort
+    public void solveBubbleSort() {
+        System.out.println("Solving BubbleSort...");
+    }
+
