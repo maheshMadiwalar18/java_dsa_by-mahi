@@ -50,3 +50,8 @@ public class DSAJourney {
         System.out.println("Solving BubbleSort...");
     }
 
+    // Day 11: SelectionSort
+    public void solveSelectionSort() {
+        System.out.println("Solving SelectionSort...");
+    }
+
