@@ -55,3 +55,8 @@ public class DSAJourney {
         System.out.println("Solving SelectionSort...");
     }
 
+    // Day 12: InsertionSort
+    public void solveInsertionSort() {
+        System.out.println("Solving InsertionSort...");
+    }
+
