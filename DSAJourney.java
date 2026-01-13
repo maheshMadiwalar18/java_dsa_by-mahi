@@ -60,3 +60,8 @@ public class DSAJourney {
         System.out.println("Solving InsertionSort...");
     }
 
+    // Day 13: MergeSort
+    public void solveMergeSort() {
+        System.out.println("Solving MergeSort...");
+    }
+
