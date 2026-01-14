@@ -65,3 +65,8 @@ public class DSAJourney {
         System.out.println("Solving MergeSort...");
     }
 
+    // Day 14: QuickSort
+    public void solveQuickSort() {
+        System.out.println("Solving QuickSort...");
+    }
+
