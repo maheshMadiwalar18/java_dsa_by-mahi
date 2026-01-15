@@ -70,3 +70,8 @@ public class DSAJourney {
         System.out.println("Solving QuickSort...");
     }
 
+    // Day 15: ValidParentheses
+    public void solveValidParentheses() {
+        System.out.println("Solving ValidParentheses...");
+    }
+
