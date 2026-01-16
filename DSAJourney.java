@@ -75,3 +75,8 @@ public class DSAJourney {
         System.out.println("Solving ValidParentheses...");
     }
 
+    // Day 16: TwoSum
+    public void solveTwoSum() {
+        System.out.println("Solving TwoSum...");
+    }
+
