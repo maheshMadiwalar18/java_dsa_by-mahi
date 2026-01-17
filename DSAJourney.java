@@ -80,3 +80,8 @@ public class DSAJourney {
         System.out.println("Solving TwoSum...");
     }
 
+    // Day 17: BestTimeToBuyAndSellStock
+    public void solveBestTimeToBuyAndSellStock() {
+        System.out.println("Solving BestTimeToBuyAndSellStock...");
+    }
+
