@@ -85,3 +85,8 @@ public class DSAJourney {
         System.out.println("Solving BestTimeToBuyAndSellStock...");
     }
 
+    // Day 18: ContainsDuplicate
+    public void solveContainsDuplicate() {
+        System.out.println("Solving ContainsDuplicate...");
+    }
+
