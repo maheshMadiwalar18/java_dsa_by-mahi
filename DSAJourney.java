@@ -95,3 +95,8 @@ public class DSAJourney {
         System.out.println("Solving ProductOfArrayExceptSelf...");
     }
 
+    // Day 20: MaximumSubarray
+    public void solveMaximumSubarray() {
+        System.out.println("Solving MaximumSubarray...");
+    }
+
