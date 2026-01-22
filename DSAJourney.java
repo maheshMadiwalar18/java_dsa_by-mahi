@@ -105,3 +105,8 @@ public class DSAJourney {
         System.out.println("Solving FindMinimumInRotatedSortedArray...");
     }
 
+    // Day 22: SearchInRotatedSortedArray
+    public void solveSearchInRotatedSortedArray() {
+        System.out.println("Solving SearchInRotatedSortedArray...");
+    }
+
