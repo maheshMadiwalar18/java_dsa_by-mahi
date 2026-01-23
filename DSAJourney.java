@@ -110,3 +110,8 @@ public class DSAJourney {
         System.out.println("Solving SearchInRotatedSortedArray...");
     }
 
+    // Day 23: ThreeSum
+    public void solveThreeSum() {
+        System.out.println("Solving ThreeSum...");
+    }
+
