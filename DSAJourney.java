@@ -115,3 +115,8 @@ public class DSAJourney {
         System.out.println("Solving ThreeSum...");
     }
 
+    // Day 24: ContainerWithMostWater
+    public void solveContainerWithMostWater() {
+        System.out.println("Solving ContainerWithMostWater...");
+    }
+
