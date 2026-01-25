@@ -120,3 +120,8 @@ public class DSAJourney {
         System.out.println("Solving ContainerWithMostWater...");
     }
 
+    // Day 25: ClimbingStairs
+    public void solveClimbingStairs() {
+        System.out.println("Solving ClimbingStairs...");
+    }
+
