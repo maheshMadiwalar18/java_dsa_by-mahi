@@ -125,3 +125,8 @@ public class DSAJourney {
         System.out.println("Solving ClimbingStairs...");
     }
 
+    // Day 26: CoinChange
+    public void solveCoinChange() {
+        System.out.println("Solving CoinChange...");
+    }
+
