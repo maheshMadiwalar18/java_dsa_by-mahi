@@ -130,3 +130,8 @@ public class DSAJourney {
         System.out.println("Solving CoinChange...");
     }
 
+    // Day 27: LongestIncreasingSubsequence
+    public void solveLongestIncreasingSubsequence() {
+        System.out.println("Solving LongestIncreasingSubsequence...");
+    }
+
