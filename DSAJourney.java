@@ -135,3 +135,8 @@ public class DSAJourney {
         System.out.println("Solving LongestIncreasingSubsequence...");
     }
 
+    // Day 28: LongestCommonSubsequence
+    public void solveLongestCommonSubsequence() {
+        System.out.println("Solving LongestCommonSubsequence...");
+    }
+
