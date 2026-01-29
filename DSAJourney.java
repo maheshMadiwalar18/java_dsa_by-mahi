@@ -140,3 +140,8 @@ public class DSAJourney {
         System.out.println("Solving LongestCommonSubsequence...");
     }
 
+    // Day 29: WordBreak
+    public void solveWordBreak() {
+        System.out.println("Solving WordBreak...");
+    }
+
