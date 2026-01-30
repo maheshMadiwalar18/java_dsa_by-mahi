@@ -145,3 +145,8 @@ public class DSAJourney {
         System.out.println("Solving WordBreak...");
     }
 
+    // Day 30: CombinationSum
+    public void solveCombinationSum() {
+        System.out.println("Solving CombinationSum...");
+    }
+
