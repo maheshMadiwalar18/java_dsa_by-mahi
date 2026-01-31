@@ -150,3 +150,8 @@ public class DSAJourney {
         System.out.println("Solving CombinationSum...");
     }
 
+    // Day 31: HouseRobber
+    public void solveHouseRobber() {
+        System.out.println("Solving HouseRobber...");
+    }
+
