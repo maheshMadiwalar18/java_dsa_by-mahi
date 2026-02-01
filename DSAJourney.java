@@ -155,3 +155,8 @@ public class DSAJourney {
         System.out.println("Solving HouseRobber...");
     }
 
+    // Day 32: HouseRobberII
+    public void solveHouseRobberII() {
+        System.out.println("Solving HouseRobberII...");
+    }
+
