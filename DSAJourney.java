@@ -160,3 +160,8 @@ public class DSAJourney {
         System.out.println("Solving HouseRobberII...");
     }
 
+    // Day 33: DecodeWays
+    public void solveDecodeWays() {
+        System.out.println("Solving DecodeWays...");
+    }
+
