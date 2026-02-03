@@ -165,3 +165,8 @@ public class DSAJourney {
         System.out.println("Solving DecodeWays...");
     }
 
+    // Day 34: JumpGame
+    public void solveJumpGame() {
+        System.out.println("Solving JumpGame...");
+    }
+
