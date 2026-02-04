@@ -170,3 +170,8 @@ public class DSAJourney {
         System.out.println("Solving JumpGame...");
     }
 
+    // Day 35: UniquePaths
+    public void solveUniquePaths() {
+        System.out.println("Solving UniquePaths...");
+    }
+
