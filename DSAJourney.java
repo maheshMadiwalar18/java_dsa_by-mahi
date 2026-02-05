@@ -175,3 +175,8 @@ public class DSAJourney {
         System.out.println("Solving UniquePaths...");
     }
 
+    // Day 36: ReverseLinkedList
+    public void solveReverseLinkedList() {
+        System.out.println("Solving ReverseLinkedList...");
+    }
+
