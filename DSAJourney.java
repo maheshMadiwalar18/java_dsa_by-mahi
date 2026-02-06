@@ -180,3 +180,8 @@ public class DSAJourney {
         System.out.println("Solving ReverseLinkedList...");
     }
 
+    // Day 37: LinkedListCycle
+    public void solveLinkedListCycle() {
+        System.out.println("Solving LinkedListCycle...");
+    }
+
