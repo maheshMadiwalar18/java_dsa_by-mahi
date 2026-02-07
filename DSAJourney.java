@@ -185,3 +185,8 @@ public class DSAJourney {
         System.out.println("Solving LinkedListCycle...");
     }
 
+    // Day 38: MergeTwoSortedLists
+    public void solveMergeTwoSortedLists() {
+        System.out.println("Solving MergeTwoSortedLists...");
+    }
+
