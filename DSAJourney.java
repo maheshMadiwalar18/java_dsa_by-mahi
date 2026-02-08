@@ -190,3 +190,8 @@ public class DSAJourney {
         System.out.println("Solving MergeTwoSortedLists...");
     }
 
+    // Day 39: RemoveNthNodeFromEndOfList
+    public void solveRemoveNthNodeFromEndOfList() {
+        System.out.println("Solving RemoveNthNodeFromEndOfList...");
+    }
+
