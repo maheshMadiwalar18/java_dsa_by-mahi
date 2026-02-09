@@ -195,3 +195,8 @@ public class DSAJourney {
         System.out.println("Solving RemoveNthNodeFromEndOfList...");
     }
 
+    // Day 40: ReorderList
+    public void solveReorderList() {
+        System.out.println("Solving ReorderList...");
+    }
+
