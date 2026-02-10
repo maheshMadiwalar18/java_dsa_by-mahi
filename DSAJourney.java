@@ -200,3 +200,8 @@ public class DSAJourney {
         System.out.println("Solving ReorderList...");
     }
 
+    // Day 41: InvertBinaryTree
+    public void solveInvertBinaryTree() {
+        System.out.println("Solving InvertBinaryTree...");
+    }
+
