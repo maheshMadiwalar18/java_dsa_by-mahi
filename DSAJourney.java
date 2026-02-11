@@ -205,3 +205,8 @@ public class DSAJourney {
         System.out.println("Solving InvertBinaryTree...");
     }
 
+    // Day 42: MaximumDepthOfBinaryTree
+    public void solveMaximumDepthOfBinaryTree() {
+        System.out.println("Solving MaximumDepthOfBinaryTree...");
+    }
+
