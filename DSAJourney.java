@@ -210,3 +210,8 @@ public class DSAJourney {
         System.out.println("Solving MaximumDepthOfBinaryTree...");
     }
 
+    // Day 43: SameTree
+    public void solveSameTree() {
+        System.out.println("Solving SameTree...");
+    }
+
