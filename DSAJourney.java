@@ -215,3 +215,8 @@ public class DSAJourney {
         System.out.println("Solving SameTree...");
     }
 
+    // Day 44: SubtreeOfAnotherTree
+    public void solveSubtreeOfAnotherTree() {
+        System.out.println("Solving SubtreeOfAnotherTree...");
+    }
+
