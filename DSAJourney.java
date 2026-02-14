@@ -220,3 +220,8 @@ public class DSAJourney {
         System.out.println("Solving SubtreeOfAnotherTree...");
     }
 
+    // Day 45: LowestCommonAncestorOfABinarySearchTree
+    public void solveLowestCommonAncestorOfABinarySearchTree() {
+        System.out.println("Solving LowestCommonAncestorOfABinarySearchTree...");
+    }
+
