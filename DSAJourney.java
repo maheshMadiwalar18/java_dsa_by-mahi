@@ -225,3 +225,8 @@ public class DSAJourney {
         System.out.println("Solving LowestCommonAncestorOfABinarySearchTree...");
     }
 
+    // Day 46: BinaryTreeLevelOrderTraversal
+    public void solveBinaryTreeLevelOrderTraversal() {
+        System.out.println("Solving BinaryTreeLevelOrderTraversal...");
+    }
+
