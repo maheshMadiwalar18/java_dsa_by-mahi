@@ -230,3 +230,8 @@ public class DSAJourney {
         System.out.println("Solving BinaryTreeLevelOrderTraversal...");
     }
 
+    // Day 47: ValidateBinarySearchTree
+    public void solveValidateBinarySearchTree() {
+        System.out.println("Solving ValidateBinarySearchTree...");
+    }
+
