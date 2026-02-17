@@ -235,3 +235,8 @@ public class DSAJourney {
         System.out.println("Solving ValidateBinarySearchTree...");
     }
 
+    // Day 48: KthSmallestElementInABST
+    public void solveKthSmallestElementInABST() {
+        System.out.println("Solving KthSmallestElementInABST...");
+    }
+
