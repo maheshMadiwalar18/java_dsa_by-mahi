@@ -240,3 +240,8 @@ public class DSAJourney {
         System.out.println("Solving KthSmallestElementInABST...");
     }
 
+    // Day 49: ConstructBinaryTreeFromPreorderAndInorderTraversal
+    public void solveConstructBinaryTreeFromPreorderAndInorderTraversal() {
+        System.out.println("Solving ConstructBinaryTreeFromPreorderAndInorderTraversal...");
+    }
+
