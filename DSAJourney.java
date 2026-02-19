@@ -245,3 +245,8 @@ public class DSAJourney {
         System.out.println("Solving ConstructBinaryTreeFromPreorderAndInorderTraversal...");
     }
 
+    // Day 50: BinaryTreeMaximumPathSum
+    public void solveBinaryTreeMaximumPathSum() {
+        System.out.println("Solving BinaryTreeMaximumPathSum...");
+    }
+
