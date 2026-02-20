@@ -250,3 +250,8 @@ public class DSAJourney {
         System.out.println("Solving BinaryTreeMaximumPathSum...");
     }
 
+    // Day 51: AlienDictionary
+    public void solveAlienDictionary() {
+        System.out.println("Solving AlienDictionary...");
+    }
+
